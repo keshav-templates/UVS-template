@@ -1,0 +1,31 @@
+{
+  "name": "temp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.app.json && tsc -p tsconfig.node.json"
+  },
+  "devDependencies": {
+    "@iconify-json/tabler": "^1.2.38",
+    "@sveltejs/vite-plugin-svelte": "^7.2.0",
+    "@tsconfig/svelte": "^5.0.8",
+    "@types/node": "^24.13.3",
+    "@unocss/preset-icons": "^66.7.5",
+    "@unocss/preset-mini": "^66.7.5",
+    "@unocss/preset-typography": "^66.7.5",
+    "@unocss/preset-web-fonts": "^66.7.5",
+    "@unocss/transformer-directives": "^66.7.5",
+    "svelte": "^5.56.8",
+    "svelte-check": "^4.7.3",
+    "typescript": "~6.0.2",
+    "unocss": "^66.7.5",
+    "vite": "^8.2.0"
+  },
+  "dependencies": {
+    "@unocss/reset": "^66.7.5"
+  }
+}
