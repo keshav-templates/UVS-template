@@ -5,7 +5,7 @@
     "": {
       "name": "temp",
       "dependencies": {
-        "@unocss/reset": "^66.7.5",
+        "@unocss/reset": "^66.8.1",
       },
       "devDependencies": {
         "@iconify-json/tabler": "^1.2.38",
@@ -174,7 +174,7 @@
 
     "@unocss/preset-wind4": ["@unocss/preset-wind4@66.7.5", "", { "dependencies": { "@unocss/core": "66.7.5", "@unocss/extractor-arbitrary-variants": "66.7.5", "@unocss/rule-utils": "66.7.5" } }, "sha512-n3jIvQv8x1jXpmWfvNFBIqHNARki4mKZXfxAA31gekpXsRRTg16u1+yC1+PBBJgoEDFEnnmKnG7EZP88S8LVXA=="],
 
-    "@unocss/reset": ["@unocss/reset@66.7.5", "", {}, "sha512-z3wbt2cuQPjtT6w5xzRYZYFIIlUPzhVKz8yIcE9fvu7BgR3hO7uVsg/5mzDoGwQ96Ya3Sk68rpmI/gLYl4bJag=="],
+    "@unocss/reset": ["@unocss/reset@66.8.1", "", {}, "sha512-3YWNFIP3sAAZUhGcHoZHoXwkJzKT8RUgFPsws5/RG9sgUpVmQWEQS2adBTovat1XE6H4Z1aCtOTYUKOOoRfvSQ=="],
 
     "@unocss/rule-utils": ["@unocss/rule-utils@66.7.5", "", { "dependencies": { "@unocss/core": "66.7.5", "magic-string": "^0.30.21" } }, "sha512-/AKHBRF6ZOexE3EDDv8ZEYh40P5e2Eha41IYUbE1wjigW7++ssmvimSTdufJzZvU5DGP++E3B3WEsFPprZMjAg=="],
 

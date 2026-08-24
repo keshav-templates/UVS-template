@@ -26,6 +26,6 @@
     "vite": "^8.2.0"
   },
   "dependencies": {
-    "@unocss/reset": "^66.7.5"
+    "@unocss/reset": "^66.8.1"
   }
 }
